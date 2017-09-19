@@ -1,0 +1,13 @@
+.idea/
+.DS_Store
+
+npm-debug.log
+node_modules
+tns_modules
+/platforms
+/lib
+
+*.js
+!/*.js
+!vendor/*.js
+*.js.map
